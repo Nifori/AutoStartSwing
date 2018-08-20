@@ -1,0 +1,6 @@
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
+Chrome;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;2;
