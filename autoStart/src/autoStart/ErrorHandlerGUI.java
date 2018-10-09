@@ -69,7 +69,7 @@ public class ErrorHandlerGUI extends JFrame {
 		
 		JButton ok = new JButton("OK");
 		ok.setBackground(Color.LIGHT_GRAY);
-		ok.setBounds(45, 122, 250, 25);
+		ok.setBounds(45, 122, 260, 25);
 		contentPane.add(ok);
 		
 		panText = new JLabel(""); //panText
